@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+     background-image: linear-gradient(to right, red, yellow);
+}
+.line {
+    height: 8px;
+    margin: 13px auto;
+    width: 200px;
+    background-color: black;
+}
+div {
+    margin-top: 16px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+.section-style {
+    margin-right: 26px;
+    margin-left: 26px;
+    background-color: floralwhite;
+    
+}
+.img    {
+    height: 250px;
+    width: 270px;
+    
+}
